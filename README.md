@@ -62,7 +62,7 @@
 - [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
 - [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
 - [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt)
-- [HappyCommit: HappyCommit is a delightful tool that harnesses the power of OpenAI's GPT-3.5 Turbo language model to generate meaningful and descriptive Git commit messages for you](https://github.com/jackbackes/happycommit)
+- [HappyCommit: Git extension](https://github.com/jackbackes/happycommit)
 
 ### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
